@@ -1,7 +1,8 @@
 # MO_and_MM
 Математическое моделирование и методы оптимизации. Университет
 
-Stack: 
-> Python 3.10
-> Numpy
-> scipy
+# Stack: 
+<p> Python 3.10</p>
+<p> Numpy </p>
+<p> scipy </p>
+
